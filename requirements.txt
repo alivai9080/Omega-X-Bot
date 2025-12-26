@@ -1,0 +1,8 @@
+ccxt
+pyTelegramBotAPI
+flask
+numpy
+pandas
+uvloop
+gunicorn
+scipy
